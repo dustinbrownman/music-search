@@ -1,0 +1,46 @@
+#display-results {
+  display: none;
+}
+
+.name {
+  font-size: 1.2em;
+}
+
+#search-results ul li span {
+  margin: 0 auto;
+}
+
+div.details {
+  display: none;
+  margin-top: 10px;
+  font-size: 0.8em;
+}
+
+.modal ul {
+  list-style: none;
+}
+
+.modal img {
+  margin: auto 20px;
+}
+
+.album {
+  cursor: pointer;
+}
+
+.album:hover {
+  text-decoration: underline;
+}
+
+tr.hiding {
+  display: none;
+}
+
+table tr.hiding td {
+/*  display: none;*/
+  border-top: none;
+}
+
+td.name {
+  cursor: pointer;
+}

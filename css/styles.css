@@ -37,7 +37,6 @@ tr.hiding {
 }
 
 table tr.hiding td {
-/*  display: none;*/
   border-top: none;
 }
 
